@@ -9,7 +9,7 @@ This project aims to detect ducks in a video moving in a grid and calculate thei
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your-username/duck-detect-motion-calculator.git
+git clone https://github.com/andrea2702/Quack_track.git
 
 2. Install dependencies:
 pip install -r requirements.txt
