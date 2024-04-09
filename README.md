@@ -25,7 +25,7 @@ python detect.py --weights best.pt --source ducks.mp4
 
 ## Demo
 
-<iframe width="560" height="315" src="https://youtu.be/olWXXbzrLfk" frameborder="0" allowfullscreen></iframe>
+[![Demo del Proyecto](http://img.youtube.com/vi/olWXXbzrLfk/0.jpg)](http://www.youtube.com/watch?v=olWXXbzrLfk)
 
 
 ## Dependencies
