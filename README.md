@@ -23,6 +23,11 @@ python detect.py --weights /path/to/weights.pt --source path/to/video.mp4
 Below is an example usage of the script:
 python detect.py --weights best.pt --source ducks.mp4
 
+## Demo
+
+<iframe width="560" height="315" src="https://youtu.be/olWXXbzrLfk" frameborder="0" allowfullscreen></iframe>
+
+
 ## Dependencies
 - argparse
 - os
